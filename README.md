@@ -1,2 +1,2 @@
 # govee-light
-Small Project to Controll a Govee smart light strip
+Small project to control a Govee smart light strip
